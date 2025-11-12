@@ -1,0 +1,2 @@
+# Ignore data artifacts from analyse_image
+analyse_image/datas/
